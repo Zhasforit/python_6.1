@@ -12,7 +12,7 @@ class Main(QDialog):
         super(Main, self).__init__()
         loadUi('uis/main.ui', self)
         self.setWindowIcon(QtGui.QIcon('images/icon.png'))
-        self.setWindowTitle('Работа с массивами и файлами в Python')
+        self.setWindowTitle('Создание копий визитки в Word и Excel с помощью Python')
 
         self.btn_wrd.clicked.connect(self.execute_wrd)
         self.btn_xl.clicked.connect(self.execute_xl)
