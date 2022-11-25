@@ -1,5 +1,5 @@
 # IZT2_Python_6.1
 
-![Screenshot](screen1.png)
-![Screenshot](screen2.png)
-![Screenshot](screen3.png)
+![Screenshot](screenshot1.PNG)
+![Screenshot](screenshot2.PNG)
+![Screenshot](screenshot3.PNG)
